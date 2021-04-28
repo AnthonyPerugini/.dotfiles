@@ -1,3 +1,9 @@
 [submodule "/home/spicy/.dotfiles/.vim/bundle/nerdtree"]
 	path = ~/.dotfiles/.vim/bundle/nerdtree
 	url = https://github.com/preservim/nerdtree.git
+[submodule ".vim/bundle/powerline.git"]
+	path = .vim/bundle/powerline.git
+	url = https://github.com/Lokaltog/vim-powerline
+[submodule ".vim/bundle/vim-fugitive.git"]
+	path = .vim/bundle/vim-fugitive.git
+	url = https://github.com/tpope/vim-fugitive.git
