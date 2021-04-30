@@ -108,4 +108,4 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 
-LS_COLORS=$LS_COLORS:'di=0;34:ow=1;34:' ; export LS_COLORS;
+LS_COLORS=$LS_COLORS:'di=0;36:ow=1;34:' ; export LS_COLORS;
