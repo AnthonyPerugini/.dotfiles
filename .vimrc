@@ -52,3 +52,14 @@ map <expr> p Paste('p')
 map <expr> P Paste('P')
 
 command! Vb normal! <C-q>
+
+let mapleader = ","
+nnoremap <C-e> <C-w>
+
+nnoremap <Leader>j <C-W><C-J>
+nnoremap <Leader>k <C-W><C-K>
+nnoremap <Leader>l <C-W><C-L>
+nnoremap <Leader>h <C-W><C-H>
+
+nnoremap <Leader>n :NERDTreeToggle<CR>
+
