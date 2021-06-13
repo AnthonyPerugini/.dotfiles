@@ -60,6 +60,6 @@ nnoremap <Leader>j <C-W><C-J>
 nnoremap <Leader>k <C-W><C-K>
 nnoremap <Leader>l <C-W><C-L>
 nnoremap <Leader>h <C-W><C-H>
+noremap <Leader>n :NERDTreeToggle<CR>
 
-nnoremap <Leader>n :NERDTreeToggle<CR>
-
+:hi Error None
