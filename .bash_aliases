@@ -1,6 +1,6 @@
-
 alias nvidia-smi='nvidia-smi.exe'
 alias py='python3'
+
 
 # some more ls aliases
 alias ll='ls -alF'

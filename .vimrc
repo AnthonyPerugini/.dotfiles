@@ -25,6 +25,7 @@ set wildmode=full
 set wildmode=list:longest
 
 colorscheme gruvbox
+let g:tex_no_error=1
 
 inoremap jk <Esc>
 nnoremap /asdf :w<cr>
@@ -54,12 +55,12 @@ map <expr> P Paste('P')
 command! Vb normal! <C-q>
 
 let mapleader = ","
-nnoremap <C-e> <C-w>
 
+nnoremap <C-e> <C-w>
 nnoremap <Leader>j <C-W><C-J>
 nnoremap <Leader>k <C-W><C-K>
 nnoremap <Leader>l <C-W><C-L>
 nnoremap <Leader>h <C-W><C-H>
-
 nnoremap <Leader>n :NERDTreeToggle<CR>
 
+:hi Error None
