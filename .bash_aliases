@@ -1,6 +1,7 @@
-
+alias winpy='/mnt/c/Users/anthony/AppData/Local/Programs/Python/Python39/python.exe'
 alias nvidia-smi='nvidia-smi.exe'
 alias py='python3'
+alias update='sudo apt update && sudo apt upgrade -y'
 
 # some more ls aliases
 alias ll='ls -alF'
