@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 alias winpy='/mnt/c/Users/anthony/AppData/Local/Programs/Python/Python39/python.exe'
-=======
->>>>>>> fb5cbb300595fe0c22b6fd142db2ad9c6457bf82
 alias nvidia-smi='nvidia-smi.exe'
 alias py='python3'
 alias update='sudo apt update && sudo apt upgrade -y'
