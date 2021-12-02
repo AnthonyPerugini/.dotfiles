@@ -6,7 +6,7 @@ alias update='sudo apt update && sudo apt upgrade -y'
 
 # some more ls aliases
 alias ll='ls -alF'
-alias la='ls -A'
+alias la='ls -la'
 alias l='ls -CF'
 
 # enable color support of ls and also add handy aliases
